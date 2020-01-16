@@ -1,0 +1,865 @@
+year,month,last,party
+1948,Jan,Truman,Democrat
+1948,Feb,Truman,Democrat
+1948,Mar,Truman,Democrat
+1948,Apr,Truman,Democrat
+1948,May,Truman,Democrat
+1948,Jun,Truman,Democrat
+1948,Jul,Truman,Democrat
+1948,Aug,Truman,Democrat
+1948,Sep,Truman,Democrat
+1948,Oct,Truman,Democrat
+1948,Nov,Truman,Democrat
+1948,Dec,Truman,Democrat
+1949,Jan,Truman,Democrat
+1949,Feb,Truman,Democrat
+1949,Mar,Truman,Democrat
+1949,Apr,Truman,Democrat
+1949,May,Truman,Democrat
+1949,Jun,Truman,Democrat
+1949,Jul,Truman,Democrat
+1949,Aug,Truman,Democrat
+1949,Sep,Truman,Democrat
+1949,Oct,Truman,Democrat
+1949,Nov,Truman,Democrat
+1949,Dec,Truman,Democrat
+1950,Jan,Truman,Democrat
+1950,Feb,Truman,Democrat
+1950,Mar,Truman,Democrat
+1950,Apr,Truman,Democrat
+1950,May,Truman,Democrat
+1950,Jun,Truman,Democrat
+1950,Jul,Truman,Democrat
+1950,Aug,Truman,Democrat
+1950,Sep,Truman,Democrat
+1950,Oct,Truman,Democrat
+1950,Nov,Truman,Democrat
+1950,Dec,Truman,Democrat
+1951,Jan,Truman,Democrat
+1951,Feb,Truman,Democrat
+1951,Mar,Truman,Democrat
+1951,Apr,Truman,Democrat
+1951,May,Truman,Democrat
+1951,Jun,Truman,Democrat
+1951,Jul,Truman,Democrat
+1951,Aug,Truman,Democrat
+1951,Sep,Truman,Democrat
+1951,Oct,Truman,Democrat
+1951,Nov,Truman,Democrat
+1951,Dec,Truman,Democrat
+1952,Jan,Truman,Democrat
+1952,Feb,Truman,Democrat
+1952,Mar,Truman,Democrat
+1952,Apr,Truman,Democrat
+1952,May,Truman,Democrat
+1952,Jun,Truman,Democrat
+1952,Jul,Truman,Democrat
+1952,Aug,Truman,Democrat
+1952,Sep,Truman,Democrat
+1952,Oct,Truman,Democrat
+1952,Nov,Truman,Democrat
+1952,Dec,Truman,Democrat
+1953,Jan,Eisenhower,Republican
+1953,Feb,Eisenhower,Republican
+1953,Mar,Eisenhower,Republican
+1953,Apr,Eisenhower,Republican
+1953,May,Eisenhower,Republican
+1953,Jun,Eisenhower,Republican
+1953,Jul,Eisenhower,Republican
+1953,Aug,Eisenhower,Republican
+1953,Sep,Eisenhower,Republican
+1953,Oct,Eisenhower,Republican
+1953,Nov,Eisenhower,Republican
+1953,Dec,Eisenhower,Republican
+1954,Jan,Eisenhower,Republican
+1954,Feb,Eisenhower,Republican
+1954,Mar,Eisenhower,Republican
+1954,Apr,Eisenhower,Republican
+1954,May,Eisenhower,Republican
+1954,Jun,Eisenhower,Republican
+1954,Jul,Eisenhower,Republican
+1954,Aug,Eisenhower,Republican
+1954,Sep,Eisenhower,Republican
+1954,Oct,Eisenhower,Republican
+1954,Nov,Eisenhower,Republican
+1954,Dec,Eisenhower,Republican
+1955,Jan,Eisenhower,Republican
+1955,Feb,Eisenhower,Republican
+1955,Mar,Eisenhower,Republican
+1955,Apr,Eisenhower,Republican
+1955,May,Eisenhower,Republican
+1955,Jun,Eisenhower,Republican
+1955,Jul,Eisenhower,Republican
+1955,Aug,Eisenhower,Republican
+1955,Sep,Eisenhower,Republican
+1955,Oct,Eisenhower,Republican
+1955,Nov,Eisenhower,Republican
+1955,Dec,Eisenhower,Republican
+1956,Jan,Eisenhower,Republican
+1956,Feb,Eisenhower,Republican
+1956,Mar,Eisenhower,Republican
+1956,Apr,Eisenhower,Republican
+1956,May,Eisenhower,Republican
+1956,Jun,Eisenhower,Republican
+1956,Jul,Eisenhower,Republican
+1956,Aug,Eisenhower,Republican
+1956,Sep,Eisenhower,Republican
+1956,Oct,Eisenhower,Republican
+1956,Nov,Eisenhower,Republican
+1956,Dec,Eisenhower,Republican
+1957,Jan,Eisenhower,Republican
+1957,Feb,Eisenhower,Republican
+1957,Mar,Eisenhower,Republican
+1957,Apr,Eisenhower,Republican
+1957,May,Eisenhower,Republican
+1957,Jun,Eisenhower,Republican
+1957,Jul,Eisenhower,Republican
+1957,Aug,Eisenhower,Republican
+1957,Sep,Eisenhower,Republican
+1957,Oct,Eisenhower,Republican
+1957,Nov,Eisenhower,Republican
+1957,Dec,Eisenhower,Republican
+1958,Jan,Eisenhower,Republican
+1958,Feb,Eisenhower,Republican
+1958,Mar,Eisenhower,Republican
+1958,Apr,Eisenhower,Republican
+1958,May,Eisenhower,Republican
+1958,Jun,Eisenhower,Republican
+1958,Jul,Eisenhower,Republican
+1958,Aug,Eisenhower,Republican
+1958,Sep,Eisenhower,Republican
+1958,Oct,Eisenhower,Republican
+1958,Nov,Eisenhower,Republican
+1958,Dec,Eisenhower,Republican
+1959,Jan,Eisenhower,Republican
+1959,Feb,Eisenhower,Republican
+1959,Mar,Eisenhower,Republican
+1959,Apr,Eisenhower,Republican
+1959,May,Eisenhower,Republican
+1959,Jun,Eisenhower,Republican
+1959,Jul,Eisenhower,Republican
+1959,Aug,Eisenhower,Republican
+1959,Sep,Eisenhower,Republican
+1959,Oct,Eisenhower,Republican
+1959,Nov,Eisenhower,Republican
+1959,Dec,Eisenhower,Republican
+1960,Jan,Eisenhower,Republican
+1960,Feb,Eisenhower,Republican
+1960,Mar,Eisenhower,Republican
+1960,Apr,Eisenhower,Republican
+1960,May,Eisenhower,Republican
+1960,Jun,Eisenhower,Republican
+1960,Jul,Eisenhower,Republican
+1960,Aug,Eisenhower,Republican
+1960,Sep,Eisenhower,Republican
+1960,Oct,Eisenhower,Republican
+1960,Nov,Eisenhower,Republican
+1960,Dec,Eisenhower,Republican
+1961,Jan,Kennedy,Democrat
+1961,Feb,Kennedy,Democrat
+1961,Mar,Kennedy,Democrat
+1961,Apr,Kennedy,Democrat
+1961,May,Kennedy,Democrat
+1961,Jun,Kennedy,Democrat
+1961,Jul,Kennedy,Democrat
+1961,Aug,Kennedy,Democrat
+1961,Sep,Kennedy,Democrat
+1961,Oct,Kennedy,Democrat
+1961,Nov,Kennedy,Democrat
+1961,Dec,Kennedy,Democrat
+1962,Jan,Kennedy,Democrat
+1962,Feb,Kennedy,Democrat
+1962,Mar,Kennedy,Democrat
+1962,Apr,Kennedy,Democrat
+1962,May,Kennedy,Democrat
+1962,Jun,Kennedy,Democrat
+1962,Jul,Kennedy,Democrat
+1962,Aug,Kennedy,Democrat
+1962,Sep,Kennedy,Democrat
+1962,Oct,Kennedy,Democrat
+1962,Nov,Kennedy,Democrat
+1962,Dec,Kennedy,Democrat
+1963,Jan,L. Johnson,Democrat
+1963,Feb,L. Johnson,Democrat
+1963,Mar,L. Johnson,Democrat
+1963,Apr,L. Johnson,Democrat
+1963,May,L. Johnson,Democrat
+1963,Jun,L. Johnson,Democrat
+1963,Jul,L. Johnson,Democrat
+1963,Aug,L. Johnson,Democrat
+1963,Sep,L. Johnson,Democrat
+1963,Oct,L. Johnson,Democrat
+1963,Nov,L. Johnson,Democrat
+1963,Dec,L. Johnson,Democrat
+1964,Jan,L. Johnson,Democrat
+1964,Feb,L. Johnson,Democrat
+1964,Mar,L. Johnson,Democrat
+1964,Apr,L. Johnson,Democrat
+1964,May,L. Johnson,Democrat
+1964,Jun,L. Johnson,Democrat
+1964,Jul,L. Johnson,Democrat
+1964,Aug,L. Johnson,Democrat
+1964,Sep,L. Johnson,Democrat
+1964,Oct,L. Johnson,Democrat
+1964,Nov,L. Johnson,Democrat
+1964,Dec,L. Johnson,Democrat
+1965,Jan,L. Johnson,Democrat
+1965,Feb,L. Johnson,Democrat
+1965,Mar,L. Johnson,Democrat
+1965,Apr,L. Johnson,Democrat
+1965,May,L. Johnson,Democrat
+1965,Jun,L. Johnson,Democrat
+1965,Jul,L. Johnson,Democrat
+1965,Aug,L. Johnson,Democrat
+1965,Sep,L. Johnson,Democrat
+1965,Oct,L. Johnson,Democrat
+1965,Nov,L. Johnson,Democrat
+1965,Dec,L. Johnson,Democrat
+1966,Jan,L. Johnson,Democrat
+1966,Feb,L. Johnson,Democrat
+1966,Mar,L. Johnson,Democrat
+1966,Apr,L. Johnson,Democrat
+1966,May,L. Johnson,Democrat
+1966,Jun,L. Johnson,Democrat
+1966,Jul,L. Johnson,Democrat
+1966,Aug,L. Johnson,Democrat
+1966,Sep,L. Johnson,Democrat
+1966,Oct,L. Johnson,Democrat
+1966,Nov,L. Johnson,Democrat
+1966,Dec,L. Johnson,Democrat
+1967,Jan,L. Johnson,Democrat
+1967,Feb,L. Johnson,Democrat
+1967,Mar,L. Johnson,Democrat
+1967,Apr,L. Johnson,Democrat
+1967,May,L. Johnson,Democrat
+1967,Jun,L. Johnson,Democrat
+1967,Jul,L. Johnson,Democrat
+1967,Aug,L. Johnson,Democrat
+1967,Sep,L. Johnson,Democrat
+1967,Oct,L. Johnson,Democrat
+1967,Nov,L. Johnson,Democrat
+1967,Dec,L. Johnson,Democrat
+1968,Jan,L. Johnson,Democrat
+1968,Feb,L. Johnson,Democrat
+1968,Mar,L. Johnson,Democrat
+1968,Apr,L. Johnson,Democrat
+1968,May,L. Johnson,Democrat
+1968,Jun,L. Johnson,Democrat
+1968,Jul,L. Johnson,Democrat
+1968,Aug,L. Johnson,Democrat
+1968,Sep,L. Johnson,Democrat
+1968,Oct,L. Johnson,Democrat
+1968,Nov,L. Johnson,Democrat
+1968,Dec,L. Johnson,Democrat
+1969,Jan,Nixon,Republican
+1969,Feb,Nixon,Republican
+1969,Mar,Nixon,Republican
+1969,Apr,Nixon,Republican
+1969,May,Nixon,Republican
+1969,Jun,Nixon,Republican
+1969,Jul,Nixon,Republican
+1969,Aug,Nixon,Republican
+1969,Sep,Nixon,Republican
+1969,Oct,Nixon,Republican
+1969,Nov,Nixon,Republican
+1969,Dec,Nixon,Republican
+1970,Jan,Nixon,Republican
+1970,Feb,Nixon,Republican
+1970,Mar,Nixon,Republican
+1970,Apr,Nixon,Republican
+1970,May,Nixon,Republican
+1970,Jun,Nixon,Republican
+1970,Jul,Nixon,Republican
+1970,Aug,Nixon,Republican
+1970,Sep,Nixon,Republican
+1970,Oct,Nixon,Republican
+1970,Nov,Nixon,Republican
+1970,Dec,Nixon,Republican
+1971,Jan,Nixon,Republican
+1971,Feb,Nixon,Republican
+1971,Mar,Nixon,Republican
+1971,Apr,Nixon,Republican
+1971,May,Nixon,Republican
+1971,Jun,Nixon,Republican
+1971,Jul,Nixon,Republican
+1971,Aug,Nixon,Republican
+1971,Sep,Nixon,Republican
+1971,Oct,Nixon,Republican
+1971,Nov,Nixon,Republican
+1971,Dec,Nixon,Republican
+1972,Jan,Nixon,Republican
+1972,Feb,Nixon,Republican
+1972,Mar,Nixon,Republican
+1972,Apr,Nixon,Republican
+1972,May,Nixon,Republican
+1972,Jun,Nixon,Republican
+1972,Jul,Nixon,Republican
+1972,Aug,Nixon,Republican
+1972,Sep,Nixon,Republican
+1972,Oct,Nixon,Republican
+1972,Nov,Nixon,Republican
+1972,Dec,Nixon,Republican
+1973,Jan,Nixon,Republican
+1973,Feb,Nixon,Republican
+1973,Mar,Nixon,Republican
+1973,Apr,Nixon,Republican
+1973,May,Nixon,Republican
+1973,Jun,Nixon,Republican
+1973,Jul,Nixon,Republican
+1973,Aug,Nixon,Republican
+1973,Sep,Nixon,Republican
+1973,Oct,Nixon,Republican
+1973,Nov,Nixon,Republican
+1973,Dec,Nixon,Republican
+1974,Jan,Nixon,Republican
+1974,Feb,Nixon,Republican
+1974,Mar,Nixon,Republican
+1974,Apr,Nixon,Republican
+1974,May,Nixon,Republican
+1974,Jun,Nixon,Republican
+1974,Jul,Nixon,Republican
+1974,Aug,Ford,Republican
+1974,Sep,Ford,Republican
+1974,Oct,Ford,Republican
+1974,Nov,Ford,Republican
+1974,Dec,Ford,Republican
+1975,Jan,Ford,Republican
+1975,Feb,Ford,Republican
+1975,Mar,Ford,Republican
+1975,Apr,Ford,Republican
+1975,May,Ford,Republican
+1975,Jun,Ford,Republican
+1975,Jul,Ford,Republican
+1975,Aug,Ford,Republican
+1975,Sep,Ford,Republican
+1975,Oct,Ford,Republican
+1975,Nov,Ford,Republican
+1975,Dec,Ford,Republican
+1976,Jan,Ford,Republican
+1976,Feb,Ford,Republican
+1976,Mar,Ford,Republican
+1976,Apr,Ford,Republican
+1976,May,Ford,Republican
+1976,Jun,Ford,Republican
+1976,Jul,Ford,Republican
+1976,Aug,Ford,Republican
+1976,Sep,Ford,Republican
+1976,Oct,Ford,Republican
+1976,Nov,Ford,Republican
+1976,Dec,Ford,Republican
+1977,Jan,Carter,Democrat
+1977,Feb,Carter,Democrat
+1977,Mar,Carter,Democrat
+1977,Apr,Carter,Democrat
+1977,May,Carter,Democrat
+1977,Jun,Carter,Democrat
+1977,Jul,Carter,Democrat
+1977,Aug,Carter,Democrat
+1977,Sep,Carter,Democrat
+1977,Oct,Carter,Democrat
+1977,Nov,Carter,Democrat
+1977,Dec,Carter,Democrat
+1978,Jan,Carter,Democrat
+1978,Feb,Carter,Democrat
+1978,Mar,Carter,Democrat
+1978,Apr,Carter,Democrat
+1978,May,Carter,Democrat
+1978,Jun,Carter,Democrat
+1978,Jul,Carter,Democrat
+1978,Aug,Carter,Democrat
+1978,Sep,Carter,Democrat
+1978,Oct,Carter,Democrat
+1978,Nov,Carter,Democrat
+1978,Dec,Carter,Democrat
+1979,Jan,Carter,Democrat
+1979,Feb,Carter,Democrat
+1979,Mar,Carter,Democrat
+1979,Apr,Carter,Democrat
+1979,May,Carter,Democrat
+1979,Jun,Carter,Democrat
+1979,Jul,Carter,Democrat
+1979,Aug,Carter,Democrat
+1979,Sep,Carter,Democrat
+1979,Oct,Carter,Democrat
+1979,Nov,Carter,Democrat
+1979,Dec,Carter,Democrat
+1980,Jan,Carter,Democrat
+1980,Feb,Carter,Democrat
+1980,Mar,Carter,Democrat
+1980,Apr,Carter,Democrat
+1980,May,Carter,Democrat
+1980,Jun,Carter,Democrat
+1980,Jul,Carter,Democrat
+1980,Aug,Carter,Democrat
+1980,Sep,Carter,Democrat
+1980,Oct,Carter,Democrat
+1980,Nov,Carter,Democrat
+1980,Dec,Carter,Democrat
+1981,Jan,Reagan,Republican
+1981,Feb,Reagan,Republican
+1981,Mar,Reagan,Republican
+1981,Apr,Reagan,Republican
+1981,May,Reagan,Republican
+1981,Jun,Reagan,Republican
+1981,Jul,Reagan,Republican
+1981,Aug,Reagan,Republican
+1981,Sep,Reagan,Republican
+1981,Oct,Reagan,Republican
+1981,Nov,Reagan,Republican
+1981,Dec,Reagan,Republican
+1982,Jan,Reagan,Republican
+1982,Feb,Reagan,Republican
+1982,Mar,Reagan,Republican
+1982,Apr,Reagan,Republican
+1982,May,Reagan,Republican
+1982,Jun,Reagan,Republican
+1982,Jul,Reagan,Republican
+1982,Aug,Reagan,Republican
+1982,Sep,Reagan,Republican
+1982,Oct,Reagan,Republican
+1982,Nov,Reagan,Republican
+1982,Dec,Reagan,Republican
+1983,Jan,Reagan,Republican
+1983,Feb,Reagan,Republican
+1983,Mar,Reagan,Republican
+1983,Apr,Reagan,Republican
+1983,May,Reagan,Republican
+1983,Jun,Reagan,Republican
+1983,Jul,Reagan,Republican
+1983,Aug,Reagan,Republican
+1983,Sep,Reagan,Republican
+1983,Oct,Reagan,Republican
+1983,Nov,Reagan,Republican
+1983,Dec,Reagan,Republican
+1984,Jan,Reagan,Republican
+1984,Feb,Reagan,Republican
+1984,Mar,Reagan,Republican
+1984,Apr,Reagan,Republican
+1984,May,Reagan,Republican
+1984,Jun,Reagan,Republican
+1984,Jul,Reagan,Republican
+1984,Aug,Reagan,Republican
+1984,Sep,Reagan,Republican
+1984,Oct,Reagan,Republican
+1984,Nov,Reagan,Republican
+1984,Dec,Reagan,Republican
+1985,Jan,Reagan,Republican
+1985,Feb,Reagan,Republican
+1985,Mar,Reagan,Republican
+1985,Apr,Reagan,Republican
+1985,May,Reagan,Republican
+1985,Jun,Reagan,Republican
+1985,Jul,Reagan,Republican
+1985,Aug,Reagan,Republican
+1985,Sep,Reagan,Republican
+1985,Oct,Reagan,Republican
+1985,Nov,Reagan,Republican
+1985,Dec,Reagan,Republican
+1986,Jan,Reagan,Republican
+1986,Feb,Reagan,Republican
+1986,Mar,Reagan,Republican
+1986,Apr,Reagan,Republican
+1986,May,Reagan,Republican
+1986,Jun,Reagan,Republican
+1986,Jul,Reagan,Republican
+1986,Aug,Reagan,Republican
+1986,Sep,Reagan,Republican
+1986,Oct,Reagan,Republican
+1986,Nov,Reagan,Republican
+1986,Dec,Reagan,Republican
+1987,Jan,Reagan,Republican
+1987,Feb,Reagan,Republican
+1987,Mar,Reagan,Republican
+1987,Apr,Reagan,Republican
+1987,May,Reagan,Republican
+1987,Jun,Reagan,Republican
+1987,Jul,Reagan,Republican
+1987,Aug,Reagan,Republican
+1987,Sep,Reagan,Republican
+1987,Oct,Reagan,Republican
+1987,Nov,Reagan,Republican
+1987,Dec,Reagan,Republican
+1988,Jan,Reagan,Republican
+1988,Feb,Reagan,Republican
+1988,Mar,Reagan,Republican
+1988,Apr,Reagan,Republican
+1988,May,Reagan,Republican
+1988,Jun,Reagan,Republican
+1988,Jul,Reagan,Republican
+1988,Aug,Reagan,Republican
+1988,Sep,Reagan,Republican
+1988,Oct,Reagan,Republican
+1988,Nov,Reagan,Republican
+1988,Dec,Reagan,Republican
+1989,Jan,G. Bush,Republican
+1989,Feb,G. Bush,Republican
+1989,Mar,G. Bush,Republican
+1989,Apr,G. Bush,Republican
+1989,May,G. Bush,Republican
+1989,Jun,G. Bush,Republican
+1989,Jul,G. Bush,Republican
+1989,Aug,G. Bush,Republican
+1989,Sep,G. Bush,Republican
+1989,Oct,G. Bush,Republican
+1989,Nov,G. Bush,Republican
+1989,Dec,G. Bush,Republican
+1990,Jan,G. Bush,Republican
+1990,Feb,G. Bush,Republican
+1990,Mar,G. Bush,Republican
+1990,Apr,G. Bush,Republican
+1990,May,G. Bush,Republican
+1990,Jun,G. Bush,Republican
+1990,Jul,G. Bush,Republican
+1990,Aug,G. Bush,Republican
+1990,Sep,G. Bush,Republican
+1990,Oct,G. Bush,Republican
+1990,Nov,G. Bush,Republican
+1990,Dec,G. Bush,Republican
+1991,Jan,G. Bush,Republican
+1991,Feb,G. Bush,Republican
+1991,Mar,G. Bush,Republican
+1991,Apr,G. Bush,Republican
+1991,May,G. Bush,Republican
+1991,Jun,G. Bush,Republican
+1991,Jul,G. Bush,Republican
+1991,Aug,G. Bush,Republican
+1991,Sep,G. Bush,Republican
+1991,Oct,G. Bush,Republican
+1991,Nov,G. Bush,Republican
+1991,Dec,G. Bush,Republican
+1992,Jan,G. Bush,Republican
+1992,Feb,G. Bush,Republican
+1992,Mar,G. Bush,Republican
+1992,Apr,G. Bush,Republican
+1992,May,G. Bush,Republican
+1992,Jun,G. Bush,Republican
+1992,Jul,G. Bush,Republican
+1992,Aug,G. Bush,Republican
+1992,Sep,G. Bush,Republican
+1992,Oct,G. Bush,Republican
+1992,Nov,G. Bush,Republican
+1992,Dec,G. Bush,Republican
+1993,Jan,Clinton,Democrat
+1993,Feb,Clinton,Democrat
+1993,Mar,Clinton,Democrat
+1993,Apr,Clinton,Democrat
+1993,May,Clinton,Democrat
+1993,Jun,Clinton,Democrat
+1993,Jul,Clinton,Democrat
+1993,Aug,Clinton,Democrat
+1993,Sep,Clinton,Democrat
+1993,Oct,Clinton,Democrat
+1993,Nov,Clinton,Democrat
+1993,Dec,Clinton,Democrat
+1994,Jan,Clinton,Democrat
+1994,Feb,Clinton,Democrat
+1994,Mar,Clinton,Democrat
+1994,Apr,Clinton,Democrat
+1994,May,Clinton,Democrat
+1994,Jun,Clinton,Democrat
+1994,Jul,Clinton,Democrat
+1994,Aug,Clinton,Democrat
+1994,Sep,Clinton,Democrat
+1994,Oct,Clinton,Democrat
+1994,Nov,Clinton,Democrat
+1994,Dec,Clinton,Democrat
+1995,Jan,Clinton,Democrat
+1995,Feb,Clinton,Democrat
+1995,Mar,Clinton,Democrat
+1995,Apr,Clinton,Democrat
+1995,May,Clinton,Democrat
+1995,Jun,Clinton,Democrat
+1995,Jul,Clinton,Democrat
+1995,Aug,Clinton,Democrat
+1995,Sep,Clinton,Democrat
+1995,Oct,Clinton,Democrat
+1995,Nov,Clinton,Democrat
+1995,Dec,Clinton,Democrat
+1996,Jan,Clinton,Democrat
+1996,Feb,Clinton,Democrat
+1996,Mar,Clinton,Democrat
+1996,Apr,Clinton,Democrat
+1996,May,Clinton,Democrat
+1996,Jun,Clinton,Democrat
+1996,Jul,Clinton,Democrat
+1996,Aug,Clinton,Democrat
+1996,Sep,Clinton,Democrat
+1996,Oct,Clinton,Democrat
+1996,Nov,Clinton,Democrat
+1996,Dec,Clinton,Democrat
+1997,Jan,Clinton,Democrat
+1997,Feb,Clinton,Democrat
+1997,Mar,Clinton,Democrat
+1997,Apr,Clinton,Democrat
+1997,May,Clinton,Democrat
+1997,Jun,Clinton,Democrat
+1997,Jul,Clinton,Democrat
+1997,Aug,Clinton,Democrat
+1997,Sep,Clinton,Democrat
+1997,Oct,Clinton,Democrat
+1997,Nov,Clinton,Democrat
+1997,Dec,Clinton,Democrat
+1998,Jan,Clinton,Democrat
+1998,Feb,Clinton,Democrat
+1998,Mar,Clinton,Democrat
+1998,Apr,Clinton,Democrat
+1998,May,Clinton,Democrat
+1998,Jun,Clinton,Democrat
+1998,Jul,Clinton,Democrat
+1998,Aug,Clinton,Democrat
+1998,Sep,Clinton,Democrat
+1998,Oct,Clinton,Democrat
+1998,Nov,Clinton,Democrat
+1998,Dec,Clinton,Democrat
+1999,Jan,Clinton,Democrat
+1999,Feb,Clinton,Democrat
+1999,Mar,Clinton,Democrat
+1999,Apr,Clinton,Democrat
+1999,May,Clinton,Democrat
+1999,Jun,Clinton,Democrat
+1999,Jul,Clinton,Democrat
+1999,Aug,Clinton,Democrat
+1999,Sep,Clinton,Democrat
+1999,Oct,Clinton,Democrat
+1999,Nov,Clinton,Democrat
+1999,Dec,Clinton,Democrat
+2000,Jan,Clinton,Democrat
+2000,Feb,Clinton,Democrat
+2000,Mar,Clinton,Democrat
+2000,Apr,Clinton,Democrat
+2000,May,Clinton,Democrat
+2000,Jun,Clinton,Democrat
+2000,Jul,Clinton,Democrat
+2000,Aug,Clinton,Democrat
+2000,Sep,Clinton,Democrat
+2000,Oct,Clinton,Democrat
+2000,Nov,Clinton,Democrat
+2000,Dec,Clinton,Democrat
+2001,Jan,G.W. Bush,Republican
+2001,Feb,G.W. Bush,Republican
+2001,Mar,G.W. Bush,Republican
+2001,Apr,G.W. Bush,Republican
+2001,May,G.W. Bush,Republican
+2001,Jun,G.W. Bush,Republican
+2001,Jul,G.W. Bush,Republican
+2001,Aug,G.W. Bush,Republican
+2001,Sep,G.W. Bush,Republican
+2001,Oct,G.W. Bush,Republican
+2001,Nov,G.W. Bush,Republican
+2001,Dec,G.W. Bush,Republican
+2002,Jan,G.W. Bush,Republican
+2002,Feb,G.W. Bush,Republican
+2002,Mar,G.W. Bush,Republican
+2002,Apr,G.W. Bush,Republican
+2002,May,G.W. Bush,Republican
+2002,Jun,G.W. Bush,Republican
+2002,Jul,G.W. Bush,Republican
+2002,Aug,G.W. Bush,Republican
+2002,Sep,G.W. Bush,Republican
+2002,Oct,G.W. Bush,Republican
+2002,Nov,G.W. Bush,Republican
+2002,Dec,G.W. Bush,Republican
+2003,Jan,G.W. Bush,Republican
+2003,Feb,G.W. Bush,Republican
+2003,Mar,G.W. Bush,Republican
+2003,Apr,G.W. Bush,Republican
+2003,May,G.W. Bush,Republican
+2003,Jun,G.W. Bush,Republican
+2003,Jul,G.W. Bush,Republican
+2003,Aug,G.W. Bush,Republican
+2003,Sep,G.W. Bush,Republican
+2003,Oct,G.W. Bush,Republican
+2003,Nov,G.W. Bush,Republican
+2003,Dec,G.W. Bush,Republican
+2004,Jan,G.W. Bush,Republican
+2004,Feb,G.W. Bush,Republican
+2004,Mar,G.W. Bush,Republican
+2004,Apr,G.W. Bush,Republican
+2004,May,G.W. Bush,Republican
+2004,Jun,G.W. Bush,Republican
+2004,Jul,G.W. Bush,Republican
+2004,Aug,G.W. Bush,Republican
+2004,Sep,G.W. Bush,Republican
+2004,Oct,G.W. Bush,Republican
+2004,Nov,G.W. Bush,Republican
+2004,Dec,G.W. Bush,Republican
+2005,Jan,G.W. Bush,Republican
+2005,Feb,G.W. Bush,Republican
+2005,Mar,G.W. Bush,Republican
+2005,Apr,G.W. Bush,Republican
+2005,May,G.W. Bush,Republican
+2005,Jun,G.W. Bush,Republican
+2005,Jul,G.W. Bush,Republican
+2005,Aug,G.W. Bush,Republican
+2005,Sep,G.W. Bush,Republican
+2005,Oct,G.W. Bush,Republican
+2005,Nov,G.W. Bush,Republican
+2005,Dec,G.W. Bush,Republican
+2006,Jan,G.W. Bush,Republican
+2006,Feb,G.W. Bush,Republican
+2006,Mar,G.W. Bush,Republican
+2006,Apr,G.W. Bush,Republican
+2006,May,G.W. Bush,Republican
+2006,Jun,G.W. Bush,Republican
+2006,Jul,G.W. Bush,Republican
+2006,Aug,G.W. Bush,Republican
+2006,Sep,G.W. Bush,Republican
+2006,Oct,G.W. Bush,Republican
+2006,Nov,G.W. Bush,Republican
+2006,Dec,G.W. Bush,Republican
+2007,Jan,G.W. Bush,Republican
+2007,Feb,G.W. Bush,Republican
+2007,Mar,G.W. Bush,Republican
+2007,Apr,G.W. Bush,Republican
+2007,May,G.W. Bush,Republican
+2007,Jun,G.W. Bush,Republican
+2007,Jul,G.W. Bush,Republican
+2007,Aug,G.W. Bush,Republican
+2007,Sep,G.W. Bush,Republican
+2007,Oct,G.W. Bush,Republican
+2007,Nov,G.W. Bush,Republican
+2007,Dec,G.W. Bush,Republican
+2008,Jan,G.W. Bush,Republican
+2008,Feb,G.W. Bush,Republican
+2008,Mar,G.W. Bush,Republican
+2008,Apr,G.W. Bush,Republican
+2008,May,G.W. Bush,Republican
+2008,Jun,G.W. Bush,Republican
+2008,Jul,G.W. Bush,Republican
+2008,Aug,G.W. Bush,Republican
+2008,Sep,G.W. Bush,Republican
+2008,Oct,G.W. Bush,Republican
+2008,Nov,G.W. Bush,Republican
+2008,Dec,G.W. Bush,Republican
+2009,Jan,Obama,Democrat
+2009,Feb,Obama,Democrat
+2009,Mar,Obama,Democrat
+2009,Apr,Obama,Democrat
+2009,May,Obama,Democrat
+2009,Jun,Obama,Democrat
+2009,Jul,Obama,Democrat
+2009,Aug,Obama,Democrat
+2009,Sep,Obama,Democrat
+2009,Oct,Obama,Democrat
+2009,Nov,Obama,Democrat
+2009,Dec,Obama,Democrat
+2010,Jan,Obama,Democrat
+2010,Feb,Obama,Democrat
+2010,Mar,Obama,Democrat
+2010,Apr,Obama,Democrat
+2010,May,Obama,Democrat
+2010,Jun,Obama,Democrat
+2010,Jul,Obama,Democrat
+2010,Aug,Obama,Democrat
+2010,Sep,Obama,Democrat
+2010,Oct,Obama,Democrat
+2010,Nov,Obama,Democrat
+2010,Dec,Obama,Democrat
+2011,Jan,Obama,Democrat
+2011,Feb,Obama,Democrat
+2011,Mar,Obama,Democrat
+2011,Apr,Obama,Democrat
+2011,May,Obama,Democrat
+2011,Jun,Obama,Democrat
+2011,Jul,Obama,Democrat
+2011,Aug,Obama,Democrat
+2011,Sep,Obama,Democrat
+2011,Oct,Obama,Democrat
+2011,Nov,Obama,Democrat
+2011,Dec,Obama,Democrat
+2012,Jan,Obama,Democrat
+2012,Feb,Obama,Democrat
+2012,Mar,Obama,Democrat
+2012,Apr,Obama,Democrat
+2012,May,Obama,Democrat
+2012,Jun,Obama,Democrat
+2012,Jul,Obama,Democrat
+2012,Aug,Obama,Democrat
+2012,Sep,Obama,Democrat
+2012,Oct,Obama,Democrat
+2012,Nov,Obama,Democrat
+2012,Dec,Obama,Democrat
+2013,Jan,Obama,Democrat
+2013,Feb,Obama,Democrat
+2013,Mar,Obama,Democrat
+2013,Apr,Obama,Democrat
+2013,May,Obama,Democrat
+2013,Jun,Obama,Democrat
+2013,Jul,Obama,Democrat
+2013,Aug,Obama,Democrat
+2013,Sep,Obama,Democrat
+2013,Oct,Obama,Democrat
+2013,Nov,Obama,Democrat
+2013,Dec,Obama,Democrat
+2014,Jan,Obama,Democrat
+2014,Feb,Obama,Democrat
+2014,Mar,Obama,Democrat
+2014,Apr,Obama,Democrat
+2014,May,Obama,Democrat
+2014,Jun,Obama,Democrat
+2014,Jul,Obama,Democrat
+2014,Aug,Obama,Democrat
+2014,Sep,Obama,Democrat
+2014,Oct,Obama,Democrat
+2014,Nov,Obama,Democrat
+2014,Dec,Obama,Democrat
+2015,Jan,Obama,Democrat
+2015,Feb,Obama,Democrat
+2015,Mar,Obama,Democrat
+2015,Apr,Obama,Democrat
+2015,May,Obama,Democrat
+2015,Jun,Obama,Democrat
+2015,Jul,Obama,Democrat
+2015,Aug,Obama,Democrat
+2015,Sep,Obama,Democrat
+2015,Oct,Obama,Democrat
+2015,Nov,Obama,Democrat
+2015,Dec,Obama,Democrat
+2016,Jan,Obama,Democrat
+2016,Feb,Obama,Democrat
+2016,Mar,Obama,Democrat
+2016,Apr,Obama,Democrat
+2016,May,Obama,Democrat
+2016,Jun,Obama,Democrat
+2016,Jul,Obama,Democrat
+2016,Aug,Obama,Democrat
+2016,Sep,Obama,Democrat
+2016,Oct,Obama,Democrat
+2016,Nov,Obama,Democrat
+2016,Dec,Obama,Democrat
+2017,Jan,Trump,Republican
+2017,Feb,Trump,Republican
+2017,Mar,Trump,Republican
+2017,Apr,Trump,Republican
+2017,May,Trump,Republican
+2017,Jun,Trump,Republican
+2017,Jul,Trump,Republican
+2017,Aug,Trump,Republican
+2017,Sep,Trump,Republican
+2017,Oct,Trump,Republican
+2017,Nov,Trump,Republican
+2017,Dec,Trump,Republican
+2018,Jan,Trump,Republican
+2018,Feb,Trump,Republican
+2018,Mar,Trump,Republican
+2018,Apr,Trump,Republican
+2018,May,Trump,Republican
+2018,Jun,Trump,Republican
+2018,Jul,Trump,Republican
+2018,Aug,Trump,Republican
+2018,Sep,Trump,Republican
+2018,Oct,Trump,Republican
+2018,Nov,Trump,Republican
+2018,Dec,Trump,Republican
+2019,Jan,Trump,Republican
+2019,Feb,Trump,Republican
+2019,Mar,Trump,Republican
+2019,Apr,Trump,Republican
+2019,May,Trump,Republican
+2019,Jun,Trump,Republican
+2019,Jul,Trump,Republican
+2019,Aug,Trump,Republican
+2019,Sep,Trump,Republican
+2019,Oct,Trump,Republican
+2019,Nov,Trump,Republican
+2019,Dec,Trump,Republican
